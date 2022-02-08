@@ -1,0 +1,7 @@
+[requires]
+poco/1.9.4
+libtorrent/2.0.1
+openssl/1.1.1m
+
+[generators]
+cmake
